@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://vercel.com">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=932942565886537818&permissions=2048&scope=bot">
     <img src="https://user-images.githubusercontent.com/78461388/191094133-c28a7779-4169-4b04-8613-a5911f3c81bc.png" height=96 />
     <h3 align="center">diswordle</h3>
   </a>
