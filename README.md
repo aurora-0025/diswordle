@@ -14,7 +14,8 @@
 Diswordle is a wordle clone, but in discord made using discord js library.
 
 diswordle allows everyone in the server to play wordle once each day.
-Display their stats and flex your wordle skills (❁´◡`❁)
+Display their stats and flex your wordle skills
+༼ つ ◕_◕ ༽つ
 
 ## Invite to your server
 
